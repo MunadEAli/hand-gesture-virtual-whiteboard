@@ -5,7 +5,8 @@ A real-time **AI Hand Gesture Whiteboard** built with **Python, OpenCV, and Medi
 ---
 
 # Demo
-[demo.mp4](https://github.com/user-attachments/assets/d298cc1f-0cfe-4007-8c6a-25f464bc920f)
+
+https://github.com/user-attachments/assets/760d43b1-0d31-4f17-bfcf-fc108b792f3e
 
 ---
 
