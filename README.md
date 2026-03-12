@@ -64,9 +64,9 @@ README.md
 
 Clone the repository
 
-git clone https://github.com/yourusername/HandGestureWhiteboard.git
+git clone https://github.com/MunadEAli/hand-gesture-virtual-whiteboard.git
 
-cd HandGestureWhiteboard
+cd hand-gesture-virtual-whiteboard
 
 Install dependencies
 
@@ -83,18 +83,6 @@ Your webcam will open and the gesture whiteboard will start.
 Press **Q** or **ESC** to exit.
 
 ---
-
-# System Requirements
-
-Minimum tested configuration
-
-CPU: Intel Core i7 8th Gen  
-RAM: 8GB  
-Python: 3.9+  
-Webcam
-
-GPU is **not required**.
-
 ---
 
 # How It Works
